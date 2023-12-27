@@ -36,13 +36,13 @@ nav {
     margin: auto;
     display: flex;
     align-items: center;
-    height: 62px;
+    height: 100px;
 }
 
 nav img {
     position: relative;
     z-index: 10;
-    width: 114px;
+    width: 180px;
 }
 
 nav button {
@@ -53,7 +53,7 @@ nav button {
 .hero {
     color: white;
     font-family: 'Martel Sans', sans-serif;
-    height: calc(100% - 62px);
+    height: calc(100% - 100px);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -100,7 +100,7 @@ nav button {
     color: white;
     background-color: rgba(248, 243, 243, 0.021);
     border-radius: 4px;
-    border: 0.8px solid white;
+    border: 0.1px solid rgba(255, 255, 255, 0.193);
     cursor: pointer;
 }
 
@@ -108,6 +108,7 @@ nav button {
     padding: 3px 24px;
     font-size: 20px;
     background-color: #e50914;
+    border: 0.8px solid #e50914;
     color: white;
     border-radius: 4px;
     font-weight: 500;
@@ -115,6 +116,7 @@ nav button {
 
 .btn-red-sm {
     background-color: #e50914;
+    border: 0.8px solid #e50914;
     color: white;
 }
 
@@ -174,9 +176,67 @@ section.first>div :nth-child(2) {
 
 }
 
-.video2{
+.video2 {
     top: 120px;
     left: 72px;
     width: 80%;
     height: auto;
+}
+
+.faq h2 {
+    text-align: center;
+    font-size: 48px;
+    padding-bottom: 24px;
+}
+
+.faq {
+    background-color: black;
+    color: white;
+    padding: 44px;
+}
+
+.faqbox:hover {
+    background-color: #4b4b4b;
+}
+
+.faqbox {
+    transition: all 0.15s ease-in-out;
+    display: flex;
+    justify-content: space-between;
+    background-color: #2d2d2d;
+    padding: 24px;
+    max-width: 75vw;
+    margin: 10px auto 10px auto;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+footer {
+    color: white;
+    max-width: 60vw;
+    margin: auto;
+    padding: 14px;
+}
+
+.questions{
+    padding: 34px 0px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: white;
+
+
+}
+
+.footer a {
+    color: white;
+    font-size: 14px;
+}
+
+.footer-item {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
 }
