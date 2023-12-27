@@ -141,6 +141,8 @@ nav button {
 }
 
 
+
+
 .secImg {
     position: relative;
 }
@@ -218,7 +220,7 @@ footer {
     padding: 14px;
 }
 
-.questions{
+.questions {
     padding: 34px 0px;
 }
 
@@ -226,8 +228,6 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     color: white;
-
-
 }
 
 .footer a {
@@ -239,4 +239,56 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 23px;
+}
+
+
+@media screen and (max-width: 1300px) {
+    nav{
+        max-width: 90vw;
+    }
+    .first {
+        flex-wrap: wrap;
+    }
+
+    .secImg img {
+        width: 305px;
+
+    }
+
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 25px;
+    }
+
+    .secImg video {
+        position: absolute;
+        top: 81px;
+        left: 40px;
+        width: 73%;
+        height: auto;
+    }
+
+    .hero> :first-child {
+        font-size: 32px;
+    }
+
+    .hero> :nth-child(2) {
+        font-size: 18px;
+    }
+
+    .hero> :nth-child(3) {
+        font-size: 18px;
+    }
+    .hero-buttons {
+        display: flex;
+        flex-direction: column;
+    }
+    .faq h2 {
+        text-align: center;
+        font-size: 32px;
+    }
+    footer {
+        max-width: 90vw;
+    }
 }
