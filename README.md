@@ -37,10 +37,21 @@ Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML 
 The replicated homepage includes:
 
 <ul>
-    <li><strong>Navigation Bar:</strong> Mirroring Amazon's navigation layout</li>
-    <li><strong>Search Bar with Hover Effect:</strong> Emulating the appearance of the search feature along with implementing a glowing effect on hover similar to Amazon's search bar.</li>
-    <li><strong>Product Displays:</strong> Structuring product grids akin to Amazon's homepage</li>
-    <li><strong>Footer:</strong> Replicating the footer section's design elements</li>
+    <li>
+        <strong>Video Playback Display:</strong> An image of a TV showcasing video playback similar to Netflix's interface.
+    </li>
+    <li>
+        <strong>Navigation Bar:</strong> Recreated to mirror the navigation layout of Netflix for seamless browsing.
+    </li>
+    <li>
+        <strong>FAQ Section:</strong> Implemented with hover effect for color change to enhance user interactivity.
+    </li>
+    <li>
+        <strong>Interactive Buttons:</strong> Designed with color transition on hover, ensuring a dynamic user experience.
+    </li>
+    <li>
+        <strong>Overall Replica:</strong> The entire Netflix interface was replicated using only HTML and CSS, striving to capture the essence and visual appeal of the original platform.
+    </li>
 </ul>
 
 
