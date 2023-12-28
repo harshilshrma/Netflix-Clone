@@ -1,13 +1,11 @@
 <img src="https://imgur.com/e1hLQ2m.png" alt="netflix banner" >
 
-# Netflix Homepage Replication Project🍿
+# Netflix Homepage Replication Project 🍿
 
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/Netflix-Clone/) <span style="color:blue">&nbsp;_(Click on the logo to view this project)_</span>
 
 # Overview
-Welcome to my project! Here, I took on the challenge of recreating the layout of Netflix's homepage using only HTML and CSS.
-
-My primary objective was to replicate the visual elements and structure of Amazon's homepage. By focusing solely on HTML and CSS, I aimed to grasp the fundamentals of front-end development, emphasizing clean coding practices for an aesthetically pleasing interface. The motivation behind this project was to gain practical experience in web development. Replicating Amazon's homepage, a widely recognized and complex interface, provided an excellent opportunity to delve into front-end design principles.
+Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML and CSS, ensuring it looks great on various devices. This project demonstrates my proficiency in front-end development by replicating Netflix's renowned interface.
 
 <br>
 
