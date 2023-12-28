@@ -4,6 +4,8 @@
 
 [<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/Netflix-Clone/) <span style="color:blue">_(Click on the logo to view this project)_</span>
 
+<br> 
+
 # Overview
 Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML and CSS, <strong>ensuring accurate responsiveness</strong> so that it looks great on various devices. This project demonstrates my proficiency in front-end development by replicating Netflix's renowned interface.
 
