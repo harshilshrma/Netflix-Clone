@@ -2,12 +2,12 @@
 
 # Netflix Homepage Replication Project🍿
 
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/Netflix-Clone/) <span style="color:blue">&nbsp;_(Click on the logo to view this project)_</span>
+[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/Netflix-Clone/) <span style="color:blue">_(Click on the logo to view this project)_</span>
+
+<br> 
 
 # Overview
-Welcome to my project! Here, I took on the challenge of recreating the layout of Netflix's homepage using only HTML and CSS.
-
-My primary objective was to replicate the visual elements and structure of Amazon's homepage. By focusing solely on HTML and CSS, I aimed to grasp the fundamentals of front-end development, emphasizing clean coding practices for an aesthetically pleasing interface. The motivation behind this project was to gain practical experience in web development. Replicating Amazon's homepage, a widely recognized and complex interface, provided an excellent opportunity to delve into front-end design principles.
+Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML and CSS, <strong>ensuring accurate responsiveness</strong> so that it looks great on various devices. This project demonstrates my proficiency in front-end development by replicating Netflix's renowned interface.
 
 <br>
 
@@ -31,7 +31,7 @@ My primary objective was to replicate the visual elements and structure of Amazo
 <br>
 
 # Visual Demonstration
-![Amazon Clone Visual Demonstration](https://i.imgur.com/4yzidtD.gif)
+![Netflix Clone Visual Demonstration]()
 
 <br>
 
@@ -39,10 +39,21 @@ My primary objective was to replicate the visual elements and structure of Amazo
 The replicated homepage includes:
 
 <ul>
-    <li><strong>Navigation Bar:</strong> Mirroring Amazon's navigation layout</li>
-    <li><strong>Search Bar with Hover Effect:</strong> Emulating the appearance of the search feature along with implementing a glowing effect on hover similar to Amazon's search bar.</li>
-    <li><strong>Product Displays:</strong> Structuring product grids akin to Amazon's homepage</li>
-    <li><strong>Footer:</strong> Replicating the footer section's design elements</li>
+    <li>
+        <strong>Video Playback Display:</strong> An image of a TV showcasing video playback similar to Netflix's interface.
+    </li>
+    <li>
+        <strong>Navigation Bar:</strong> Recreated to mirror the navigation layout of Netflix for seamless browsing.
+    </li>
+    <li>
+        <strong>FAQ Section:</strong> Implemented with hover effect for color change to enhance user interactivity.
+    </li>
+    <li>
+        <strong>Interactive Buttons:</strong> Designed with color transition on hover, ensuring a dynamic user experience.
+    </li>
+    <li>
+        <strong>Overall Replica:</strong> The entire Netflix interface was replicated using only HTML and CSS, striving to capture the essence and visual appeal of the original platform.
+    </li>
 </ul>
 
 
