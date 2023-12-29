@@ -64,15 +64,17 @@ Key takeaways from this project:
 
 <ul>
     <li><strong>Enhanced HTML & CSS Skills:</strong> Improved proficiency in structuring layouts and styling elements.</li>
+    <li><strong>Responsive Design Implementation:</strong> Implemented responsiveness, ensuring the website works seamlessly on various devices, effectively utilizing media queries.</li>
     <li><strong>Version Control Benefits:</strong> Understanding the importance of Git for tracking changes and collaborating on projects.</li>
     <li><strong>Complexity Handling:</strong> Dealt with the intricacies of styling a complex webpage layout.</li>
 </ul>
+
 
 <br>
 
 # Conclusion
 
-Thank you for exploring my Amazon Homepage Replication Project! This project has been an incredible learning experience for me in the realm of front-end development using HTML and CSS. I hope it offers insights to fellow learners and enthusiasts in the web development community.
+Thank you for exploring my Netflix Homepage Replication Project! This endeavour has been an exceptional journey into the realm of front-end development, delving deep into HTML and CSS. Throughout this project, I gained valuable insights into crafting responsive designs using media queries. I aspire for this project to serve as a guiding light for fellow learners and enthusiasts within the web development community.
 
 Feel free to dive into the code, contribute, or use it for educational purposes. Your feedback and contributions are immensely valuable.
 
