@@ -277,12 +277,20 @@ footer {
     width: 209px; 
     height: 56px;
 }
+.btn-red:hover{
+    background-color: #b50710;
+    border: 1px solid #b50710;
+}
+.btn-red-sm:hover{
+    background-color: #b50710;
+    border: 1px solid #b50710;
+}
 
 
 
 @media screen and (max-width: 1300px) {
     nav {
-        max-width: 90vw;
+        max-width: 92vw;
     }
 
     .first {
