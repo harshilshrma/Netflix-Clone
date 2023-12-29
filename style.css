@@ -96,11 +96,11 @@ nav button {
 
 .btn {
     padding: 3px 8px;
-    font-weight: 400;
+    font-weight: 700;
     color: white;
     background-color: rgba(248, 243, 243, 0.021);
     border-radius: 4px;
-    border: 0.1px solid rgba(255, 255, 255, 0.193);
+    border: 1px solid rgba(255, 255, 255, 0.193);
     cursor: pointer;
     height: 32px;
     width: 126px;
@@ -110,16 +110,16 @@ nav button {
     padding: 3px 24px;
     font-size: 20px;
     background-color: #e50914;
-    border: 0.8px solid #e50914;
+    border: 01px solid #e50914;
     color: white;
     border-radius: 4px;
-    font-weight: 500;
+    font-weight: bolder;
 
 }
 
 .btn-red-sm {
     background-color: #e50914;
-    border: 0.8px solid #e50914;
+    border: 1px solid #e50914;
     color: white;
     height: 32px;
     width: 77px;
@@ -222,11 +222,13 @@ footer {
     color: white;
     max-width: 78vw;
     margin: auto;
+    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
     padding: 14px;
 }
 
 .questions {
-    padding: 34px 0px;
+    padding-bottom: 34px;
 }
 
 .footer {
@@ -246,11 +248,34 @@ footer {
     gap: 23px;
 }
 
+.footer-mail {
+    padding: 34px 0px;
+}
+
+.footer-input {
+    padding: 7px 101px 8px 14px;
+    color: white;
+    font-size: 12px;
+    font-weight: 900;
+    border-radius: 4px;
+    background-color: rgba(23, 23, 23, 0.8);
+    border: 1px solid rgba(246, 238, 238, 0.5);
+}
+
+.bottom-mail {
+    text-align: center;
+    margin-top: 69px;
+}
+.footer-signoff{
+    padding-top: 34px;
+}
+
 
 @media screen and (max-width: 1300px) {
-    nav{
+    nav {
         max-width: 90vw;
     }
+
     .first {
         flex-wrap: wrap;
     }
@@ -285,14 +310,17 @@ footer {
     .hero> :nth-child(3) {
         font-size: 18px;
     }
+
     .hero-buttons {
         display: flex;
         flex-direction: column;
     }
+
     .faq h2 {
         text-align: center;
         font-size: 32px;
     }
+
     footer {
         max-width: 90vw;
     }
