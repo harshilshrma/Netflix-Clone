@@ -64,7 +64,7 @@ Key takeaways from this project:
 
 <ul>
     <li><strong>Enhanced HTML & CSS Skills:</strong> Improved proficiency in structuring layouts and styling elements.</li>
-    <li><strong>Responsive Design Implementation:</strong>Tried implementing responsiveness, aiming for the website to function well on different devices. Although it functions adequately, it's not performing as ideally as expected.</li>
+    <li><strong>Responsive Design Implementation:</strong> Tried implementing responsiveness, aiming for the website to function well on different devices. Although it functions adequately, it's not performing as ideally as expected.</li>
     <li><strong>Version Control Benefits:</strong> Understanding the importance of Git for tracking changes and collaborating on projects.</li>
     <li><strong>Complexity Handling:</strong> Dealt with the intricacies of styling a complex webpage layout.</li>
 </ul>
