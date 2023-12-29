@@ -31,7 +31,7 @@ Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML 
 <br>
 
 # Visual Demonstration
-![Netflix Clone Visual Demonstration]()
+![Imgur](https://imgur.com/HWHbbfF.gif)
 
 <br>
 
